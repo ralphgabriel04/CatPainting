@@ -1,27 +1,23 @@
-Voici un README adapté à ton projet, basé sur le modèle que tu m'as fourni :
+# 🎨 CSS Cat Painting  
 
----
+## 📌 Description  
+**CSS Cat Painting** is a project designed to explore CSS positioning concepts by creating a stylized cat illustration. This project helps to learn and master:  
 
-# 🎨 CSS Cat Painting
+- **Absolute positioning**  
+- The **z-index** property  
+- The **transform** property  
 
-## 📌 Description
-**CSS Cat Painting** est un projet visant à explorer les concepts de positionnement en CSS en réalisant un dessin stylisé d’un chat. Ce projet permet d'apprendre et de maîtriser :
+This project is perfect for those who want to improve their CSS skills while working on a fun and visual exercise.  
 
-- Le **positionnement absolu**
-- La propriété **z-index**
-- La propriété **transform**
+---  
 
-Ce projet est idéal pour ceux qui souhaitent approfondir leurs compétences en CSS tout en réalisant un exercice pratique et visuel.
+## 🛠️ Technologies Used  
+- **HTML5**  
+- **CSS3**  
 
----
+---  
 
-## 🛠️ Technologies utilisées
-- **HTML5**
-- **CSS3**
-
----
-
-## 📂 Structure du projet
+## 📂 Project Structure  
 
 ```
 /css-cat-painting
@@ -30,43 +26,43 @@ Ce projet est idéal pour ceux qui souhaitent approfondir leurs compétences en 
 └── README.md
 ```
 
-### 📜 Fichiers
-1️⃣ **index.html** : Structure HTML du projet  
-2️⃣ **styles.css** : Styles CSS permettant de créer l'illustration du chat  
+### 📜 Files  
+1️⃣ **index.html**: The HTML structure of the project  
+2️⃣ **styles.css**: CSS styles to create the cat illustration  
 
----
+---  
 
-## 🚀 Installation et Exécution
+## 🚀 Installation & Execution  
 
-### 1️⃣ Cloner le projet
+### 1️⃣ Clone the project  
 ```sh
-git clone https://github.com/ton-profil-github/css-cat-painting.git
+git clone https://github.com/your-github-profile/css-cat-painting.git
 cd css-cat-painting
 ```
 
-### 2️⃣ Ouvrir le fichier
-- Ouvre **index.html** dans un navigateur pour voir le rendu.
+### 2️⃣ Open the file  
+- Open **index.html** in a browser to see the rendering.  
 
----
+---  
 
-## 🎯 Fonctionnalités
+## 🎯 Features  
 
-- Dessin d’un chat en pur CSS
-- Utilisation avancée des positions absolues
-- Gestion des superpositions avec `z-index`
-- Manipulation des formes avec `border` et `transform`
+- A complete cat illustration using pure CSS  
+- Advanced use of absolute positioning  
+- Layer management with `z-index`  
+- Shape manipulation with `border` and `transform`  
 
----
+---  
 
-## 📌 Aperçu du projet
+## 📌 Project Preview  
 
-![Aperçu du projet](./image.png)
+![Project Preview](./image.png)  
 
----
+---  
 
-## 🔗 Exemple de code
+## 🔗 Code Example  
 
-**HTML :**
+**HTML:**  
 ```html
 <div class="cat-head">
   <div class="cat-ears">
@@ -80,7 +76,7 @@ cd css-cat-painting
 </div>
 ```
 
-**CSS :**
+**CSS:**  
 ```css
 .cat-head {
   position: absolute;
@@ -97,20 +93,20 @@ cd css-cat-painting
 }
 ```
 
----
+---  
 
-## 📈 Améliorations possibles
-- Ajouter des animations CSS (clignement des yeux, mouvement des moustaches)
-- Permettre de changer la couleur du chat via une interface interactive
-- Convertir le projet en composant React
+## 📈 Possible Improvements  
+- Add CSS animations (e.g., blinking eyes, whisker movement)  
+- Enable color customization via an interactive interface  
+- Convert the project into a React component  
 
----
+---  
 
-## 📝 Auteur
+## 📝 Author  
 📝 **Gabriel Ralph Christian**  
-Développeur passionné par la programmation, l’intelligence artificielle et les interfaces utilisateur.
+Developer passionate about programming, artificial intelligence, and user interfaces.  
 
----
+---  
 
-## 📜 Licence
-📜 Ce projet est sous licence MIT – vous êtes libre de l'utiliser, de le modifier et de le partager.
+## 📜 License  
+📜 This project is under the **MIT license** – you are free to use, modify, and share it.
